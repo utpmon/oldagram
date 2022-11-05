@@ -4,7 +4,9 @@ html, body {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
 }
-
+.main-container{
+    width: 600px;
+}
 header{
     display: flex;
     justify-content: space-between;

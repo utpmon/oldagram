@@ -5,7 +5,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 .main-container{
-    width: 600px;
+    max-width: 600px;
 }
 header{
     display: flex;
